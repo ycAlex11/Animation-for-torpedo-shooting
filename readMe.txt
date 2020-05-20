@@ -7,3 +7,4 @@ A few features are include in this animation:
 	Achieve switch smooth and flat shading
    
 
+To run the animations, make first, then run: ./programm
